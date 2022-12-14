@@ -1,6 +1,7 @@
 
 var myName = prompt("Hello there! What is your name?");
 console.log(myName);
+console.log("Joel's try");
 
 var answer1 = prompt("Hi " + myName + "! Christmas is coming... On a scale of 1 to 10, how prepared are you for this Holiday?", "answer from 1 (not at all) to 10 (totally ready)");
 
